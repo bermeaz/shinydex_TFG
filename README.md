@@ -1,3 +1,3 @@
 Proyecto Fin de Grado ASIR 25/26
 Alejandro
-https://www.shinydextfg.infinityfree.io/
+https://shinydextfg.infinityfree.io/
